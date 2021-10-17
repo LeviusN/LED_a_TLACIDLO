@@ -1,4 +1,5 @@
-![246132257_353892393193679_9189623530578647884_n](https://user-images.githubusercontent.com/91337423/137629952-92c2e1ca-6f1b-44d2-a692-b5d014bb00c1.gif)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/91337423/137645201-8863a766-f2b3-4f61-a516-4ab60bd9b442.gif)
+
 # Náplň zadania
 - ON / OFF LED
 - Funkcia na ON / OFF v src a lnc
